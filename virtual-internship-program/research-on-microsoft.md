@@ -37,9 +37,74 @@ A computer on every desk, and in every home \(running Microsoft software\)
 
 Then in the naughties era we hit what I would consider **the golden age**, where Microsoft started to expand its reaches and look toward new frontiers - alongside continuing to improve its operating system \(Windows\). Its here where the technology for my generation was started and began making its way into our childhood and inevitably create a world with a PC on every working desk.
 
+If you just look at the list of products that Microsoft came out with during this period until, you can see the development of some truly revolutionary products which we still rely heavily on today.
 
+| Year | Release |
+| :--- | :--- |
+| 2000 | Windows 2000 |
+| 2001 | Office XP |
+| 2001 | **Windows XP**, **Xbox** |
+| 2003 | Windows Server 2003 |
+| 2005 | Xbox 360 |
+| 2007 | Windows Vista, **Microsoft Office 2007** |
+| 2008 | SQL Server, Visual Studio |
+| 2009 | Bing engine, **Windows 7** |
+| 2010 | Office 2010, Windows Phone 7 |
+| 2011 | Office 365, **Skype acquisition** |
+| 2012 | Yammer, VS2012, Windows 8, **Microsoft Surface** |
+| 2013 | **Outlook.com**, Office 365 expansion, Xbox One |
+| **2014** | **Satya Nadella**: **Office on iPad**, Nokia acquisition, Surface Pro 3, **Minecraft**, Office on Android |
+| 2015 | Windows 10, Office 2016, **Flagship store in Sydney opens** |
+| 2016 | **Dynamics 365**, **LinkedIn acquisition** |
+| 2017 | Visual Studio 2017, Mixed Reality headsets \(HoloLens\), Xbox One X, Redmond campus |
+| 2018 | Surface Hub 2, **Adaptive Controller**, **GitHub acquisition** |
+| 2019 | HoloLens 2, Surface Neo/Duo reveal |
+| 2020 | **Carbon negative announcement by 2030**, Microsoft 365 Personal and Family subscriptions |
+
+Looking at this, it's incredible that over the past two decades they've consistently come out with some truly amazing technology that has changed the landscape of the world today. These are really just the highlights that I know of which I have a great interest in. Many of these products have shaped me into who I am today - from my dependence on Office XP tools in school which were used on computers running Windows and playing my first console games on Xbox to now, where I'm using LinkedIn and GitHub regularly and using more productivity tools like Teams and OneNote.
+
+So as Microsoft continues to grow, I also grow alongside with the company. And the tools I grew up using for some of them I still continue to use, as well as picking up some new ones. Now with the shift in company culture and focus under Satya Nadella following their new mission to empower the world, Microsoft has arguably grown even faster in the past 6 years.
+
+Immediately, Satya made a call to open arms towards Open Source and embrace the technology of competitors, **providing Office tools on iPad \(Apple\) and Android \(Google\) devices**. It's these kind of moves that are truly helping people of all ages by providing them with the right tools they need to achieve more \(from students using Word on Macs to developers using Excel on Linux, there's a clear benefit to **democratising technology for all**.
+
+Beyond this, Microsoft has seen more of a focus towards **global and social issues** tackling different areas like **accessibility in technology and gaming** as seen with their release of the Adaptive controller as well as their resolvement to make the company carbon negative by 2030. And that's what I think separates Microsoft from the other "FANG" companies \(Facebook Amazon Netflix Google\) - they are a company that truly cares and considers their impact on the world. That's why their culture is so attractive. The employees are all aligned under the company mission:
+
+{% hint style="info" %}
+**Microsoft's mission**  
+To empower every person and organisation on the planet to achieve more.
+{% endhint %}
+
+### Resource 2: Microsoft by the Numbers
 
 {% embed url="https://news.microsoft.com/bythenumbers/en/quietest-place" %}
+
+It's here that I was really taken away by the care that Microsoft has in everything that it tries to do. First, not only is the website **gorgeous**, with a **clean minimal aesthetic** and **polished animations** \(albeit a quite clunky interface for scrolling and reading through\), it **provides stunning visuals and short paragraphs to announce some of Microsoft's proudest achievements**.
+
+This makes the web experience not only fun for the user, but it is equally as enlightening learning about some very interesting things about Microsoft and the world that it serves. I mean, some of this is just fascinating learning about how Microsoft uses no excess water and has built its campus to self-sustain by recycling its internal usage and distribution rain storage tanks across the area.
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+It's things like this which are unheard of anywhere else and make me feel in awe of the company. Anyway, I recommend anyone to check out this website as it's not just informative but truly a beautiful experience.
+
+## The Quiz
+
+Finally coming back to it, the final task was a short multiple choice quiz about Microsoft with questions about the company covering some of the things in the previous links. Not really a challenging quiz, but making sure that you know what the company is about before moving on in the virtual internship.
+
+Things like knowing what their mission is...
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+Or when their fiscal year begins...
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+Or how many people their employ...
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+And what's great about this is that it also gives a little summary of the context behind the answer which helps you internalise it a bit more. An example is here where they expand on beyond 2030 being carbon negative they aim in 2050 to be carbon negative company-wide \(so all the carbon the company has ever produced, they will cut back to make up for it\).
+
+![](../.gitbook/assets/image%20%2826%29.png)
 
 
 
