@@ -2,33 +2,6 @@
 
 * [Readme](README.md)
 
-## Microsoft 365
-
-* [Microsoft 365 Fundamentals](microsoft-365/microsoft-365-fundamentals/README.md)
-  * [What is Microsoft 365?](microsoft-365/microsoft-365-fundamentals/what-is-microsoft-365.md)
-
-## Microsoft Azure
-
----
-
-* [Cloud Concepts](untitled/README.md)
-  * [Principles of cloud computing](untitled/principles-of-cloud-computing/README.md)
-    * [An analogy](untitled/principles-of-cloud-computing/an-analogy.md)
-* [Core Cloud Services](core-cloud-services.md)
-
-## Microsoft Student Accelerator \(MSA\)
-
-* [Workshop 1: AI & Machine Learning](microsoft-student-accelerator-msa/workshop-1-summary.md)
-* [Project 1: Machine Learning](microsoft-student-accelerator-msa/project-1-machine-learning.md)
-* [Workshop 2: Cloud Fundamentals](microsoft-student-accelerator-msa/workshop-2-cloud-fundamentals.md)
-* [Project 2: Web Application](microsoft-student-accelerator-msa/project-2-web-application.md)
-
-## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
-
-* [Power Platform](microsoft-azure-workshop-series/power-platform.md)
-* [AI Builder & Canvas Apps](microsoft-azure-workshop-series/untitled/README.md)
-  * [Building a Helmet Detection App](microsoft-azure-workshop-series/untitled/building-a-helmet-detection-app.md)
-
 ## Power Platform
 
 * [Power Platform Fundamentals](power-platform/power-platform-fundamentals/README.md)
@@ -68,13 +41,35 @@
   * [Power BI](power-platform/power-platform-fundamentals/power-bi/README.md)
     * [Parts of Power BI](power-platform/power-platform-fundamentals/power-bi/parts-of-power-bi.md)
   * [Building a simple dashboard](power-platform/power-platform-fundamentals/building-a-simple-dashboard.md)
+* [PL-900](power-platform/the-power-platform.md)
 
 ## Virtual Internship Program
 
 * [InsideSherpa & Background](virtual-internship-program/insidesherpa-and-background.md)
 * [Research on Microsoft](virtual-internship-program/research-on-microsoft.md)
 
-## PL-900
+## Microsoft Student Accelerator \(MSA\)
 
-* [The Power Platform](pl-900/the-power-platform.md)
+* [Workshop 1: AI & Machine Learning](microsoft-student-accelerator-msa/workshop-1-summary.md)
+* [Project 1: Machine Learning](microsoft-student-accelerator-msa/project-1-machine-learning.md)
+* [Workshop 2: Cloud Fundamentals](microsoft-student-accelerator-msa/workshop-2-cloud-fundamentals.md)
+* [Project 2: Web Application](microsoft-student-accelerator-msa/project-2-web-application.md)
+
+## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
+
+* [Power Platform](microsoft-azure-workshop-series/power-platform.md)
+* [AI Builder & Canvas Apps](microsoft-azure-workshop-series/untitled/README.md)
+  * [Building a Helmet Detection App](microsoft-azure-workshop-series/untitled/building-a-helmet-detection-app.md)
+
+## Microsoft Azure
+
+* [Cloud Concepts](microsoft-azure/untitled/README.md)
+  * [Principles of cloud computing](microsoft-azure/untitled/principles-of-cloud-computing/README.md)
+    * [An analogy](microsoft-azure/untitled/principles-of-cloud-computing/an-analogy.md)
+* [Core Cloud Services](microsoft-azure/core-cloud-services.md)
+
+## Microsoft 365
+
+* [Microsoft 365 Fundamentals](microsoft-365/microsoft-365-fundamentals/README.md)
+  * [What is Microsoft 365?](microsoft-365/microsoft-365-fundamentals/what-is-microsoft-365.md)
 

@@ -10,13 +10,13 @@ description: What is cloud computing?
 
 When you hit the switch to turn on the light, the light turns on. You don't have to think about the process behind the light turning on - from the power provider \(source\), down the transmission line, distributed to your street and forwarded into your accomodation thereby providing electricity for your light bulb.
 
-![Process diagram of how electricity enters your home](../../.gitbook/assets/image%20%289%29.png)
+![Process diagram of how electricity enters your home](../../../.gitbook/assets/image%20%289%29.png)
 
 All that complex gibberish is hidden away behind the clean interface of a switch that you simply flip one way to turn the light on, and the other way to turn off. ****And really, that's what you want in life. You don't want to have to worry about how confusing the internals of things are or how they work every time you hit the switch - you just simply want it to work and see that bulb glow.
 
 So all the **process that provides power to the light bulb is HIDDEN behind that simple light switch**. The hardest thing you have to deal with is paying for the bill - as **electricity has become a utility for you**. Just by paying for electricity you not only have the ability to turn on your lights, but also power your gas, get your fridge running, access the Internet and much more!
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
 ### Electricity as a utility
 
