@@ -1,2 +1,2 @@
-# Project 2 - Web Application
+# Project 2: Web Application
 

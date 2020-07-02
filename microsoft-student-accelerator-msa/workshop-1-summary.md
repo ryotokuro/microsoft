@@ -1,2 +1,2 @@
-# Workshop 1 Summary
+# Workshop 1: AI & Machine Learning
 
