@@ -1,4 +1,4 @@
-# Research on Microsoft
+# 1. Research on Microsoft
 
 ## The tech giant, Microsoft
 

@@ -46,7 +46,11 @@
 ## Virtual Internship Program
 
 * [InsideSherpa & Background](virtual-internship-program/insidesherpa-and-background.md)
-* [Research on Microsoft](virtual-internship-program/research-on-microsoft.md)
+* [1. Research on Microsoft](virtual-internship-program/research-on-microsoft.md)
+* [2. Preparing for the Virtual Experience](virtual-internship-program/2.-preparing-for-the-virtual-experience/README.md)
+  * [Preparing for my virtual internship with Microsoft](virtual-internship-program/2.-preparing-for-the-virtual-experience/preparing-for-my-virtual-internship-with-microsoft.md)
+  * [SMART goal setting](virtual-internship-program/2.-preparing-for-the-virtual-experience/smart-goal-setting.md)
+* [3. Campus-&gt;Corporate: Business Foundation Skills](virtual-internship-program/3.-campus-greater-than-corporate-business-foundation-skills.md)
 
 ## Microsoft Student Accelerator \(MSA\)
 
