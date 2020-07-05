@@ -2,6 +2,7 @@
 
 Need:
 
-* Microsoft Logo
+* Microsoft logo
 * Microsoft font
+* Branding colours
 
