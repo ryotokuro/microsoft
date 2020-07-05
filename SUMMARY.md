@@ -58,7 +58,8 @@
 * [Project 1: Machine Learning](microsoft-student-accelerator-msa/project-1-machine-learning.md)
 * [Workshop 2: Cloud Fundamentals](microsoft-student-accelerator-msa/workshop-2-cloud-fundamentals.md)
 * [Project 2: Web Application](microsoft-student-accelerator-msa/project-2-web-application/README.md)
-  * [Exploring themes](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes.md)
+  * [My idea](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes.md)
+  * [Exploring themes](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes-1.md)
   * [Collecting assets](microsoft-student-accelerator-msa/project-2-web-application/collecting-assets.md)
 
 ## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
