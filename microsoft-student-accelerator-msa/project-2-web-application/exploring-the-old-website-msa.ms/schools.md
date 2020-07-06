@@ -2,19 +2,19 @@
 description: 'https://web.archive.org/web/20160402012220/http://msa.ms/schools/'
 ---
 
-# Schools
+# For Schools
 
 The first thing on this page is a link that **directs students and teachers to different sections on the page**. For the students, they are directed towards the **About section**, informing them about the program and the Teachers have their own section on how to get involved.
 
-![MSA Schools hero section](../../../.gitbook/assets/image%20%2869%29.png)
+![MSA Schools hero section](../../../.gitbook/assets/image%20%2872%29.png)
 
 ## About \(for students\)
 
-![](../../../.gitbook/assets/image%20%2862%29.png)
+![](../../../.gitbook/assets/image%20%2865%29.png)
 
 ## The Process
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 ## Videos
 
@@ -22,11 +22,11 @@ These seem to be hosted on Azure so they can be played using the default video p
 
 Then less work needs to be done on maintaining these videos if new courses are uploaded, they can all be deployed on Channel 9.
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 ## Section for teachers
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
 ## Facebook Group
 
