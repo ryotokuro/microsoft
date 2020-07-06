@@ -1,0 +1,68 @@
+# Exploring the old website msa.ms
+
+I was looking around for a website to see if I could get an idea of how MSA does their branding, but it doesn't seem like one currently exists. However, going to their youtube channel in their About section, they reference a website available at the link [msa.ms](https://msa.ms) which doesn't seem to be supported anymore.
+
+However, thanks to the [Wayback Machine](https://web.archive.org/), I can visit the different versions of the site and see how it looked since it was created and published to the internet.
+
+## Mar 30 2015
+
+This seems like the earliest available cached version of the website, and has a few key things to note about it. First, is the **iconic purple accelerator branding**, which is the background of every secondary block of information. The website also seems to feature the **Microsoft Logo** in the header as well as including the **favicon** in the website tab. 
+
+In terms of content, there is an immediate banner of a person showing their co-worker something on a device and the name and tagline of the program: **Microsoft Student Accelerator: Inspire. Develop. Innovate**. There's a **Register Now** call to action which links to _msa.ms/join_ and seems to be how people registered interest back then for the next intake.
+
+![MSA landing banner](../../.gitbook/assets/image%20%2839%29.png)
+
+Scrolling further down, we have the **About section** which features a short paragraph about the program and the inclusion of the **Microsoft tagline**: With Inspire, Develop and Innovate highlighted.
+
+The Register action is expanded upon to reveal it as perhaps a **mailing system** that lets you **"stay updated with all the news, events and information about MSA"**.
+
+![msa.ms About section and Register information](../../.gitbook/assets/image%20%2836%29.png)
+
+Next, we have the **3 Key MSA Pillars** which feature an **icon and short description** about MSA for three different ideas. 
+
+![](../../.gitbook/assets/image%20%2840%29.png)
+
+Further down we have the program schedule for the MS Accelerator as it occurs over a series of months.
+
+![Program schedule for the MSA](../../.gitbook/assets/image%20%2853%29.png)
+
+Finally, there is a **Contact Us and Footer section** which has details to email the New Zealand Microsoft branch as well as some standard Microsoft links \(**TOU, TradeMarks, Privacy, Azure, Twitter, Facebook**\).
+
+![](../../.gitbook/assets/image%20%2838%29.png)
+
+Overall this is quite standard as a landing page gets, and it could definitely use with a modern facelift as well as more consistency with branding. There's definitely some minor CSS things that can be fixed to make things look nicer as well as some dynamic elements that can be introduced with single page layouts becoming more popular in websites today.
+
+## Apr 19 2015
+
+It wouldn't be long before the website got a reworked design, coming one month after the previous installment \(supposedly\). This may have happened after the 2014-2015 MSA program ended, since now the website featured some success points and more information including what the MSA program had achieved to date.
+
+The first thing is this almost **full-width and almost full-height page spreader** that incites a call to action and now with the MSA designed logo. The header has been drastically reworked to now feature the iconic purple and an **active state indicating which page you're currently on**. The missing image on the right I guess could be the Microsoft logo or the MSA logo as seen front and center now.
+
+The image ****has also has been changed to **students in a lecture hall** most likely since the program is targeted towards students. It's resolution has taken quite a hit though and is very blurry so it might help with a slight change.
+
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+Scrolling down, I notice something else has changed. The **header which previously didn't follow, now does - indicating the header is now static and stays at the top of the viewport** \(can actually go into the source code and confirm\).
+
+Also, the next section has been moved the initiatives upwards to become the new About section. I think it's an cool, but isn't too clear on its explanation of the problem. **So maybe some content revision could help here.**
+
+![](../../.gitbook/assets/image%20%2844%29.png)
+
+Next on the page we have **Highlights** detailing information about the programs success in the form of a Infographic, an embedded YouTube video and the logos of employees that hired students from the MSA program.
+
+![MSA highlights section](../../.gitbook/assets/image%20%2831%29.png)
+
+Then we have the call to action and some links for more details for different people. I think this could do with **having different icons than above** since they represent different links. 
+
+![MSA more details](../../.gitbook/assets/image%20%2834%29.png)
+
+Next, the Program schedule has been updated with a new look with some photos of the actual program on display. This is quite nice as it gives context to how the program operation actually looks like. Again however, the photos are not set up that great and take away from the professionalism - some being dimly lit, or unappealing for the aesthetic. Perhaps some **custom graphics** or a **different layout** that helps **feature the graphics more prominently would improve it?**
+
+![MSA Apr Program Schedule](../../.gitbook/assets/image%20%2830%29.png)
+
+Finally, the footer has changed to a I guess more mobile friendly layout. It's shrunk in size and now features just external links for the program itself. All the MS guidelines and TOU aren't there anymore which is nice I guess, stripping away the unnecessary information. So I like this approach better, but maybe have the styling consistent instead of a block format where the text is center-aligned.
+
+![](../../.gitbook/assets/image%20%2845%29.png)
+
+
+

@@ -4,11 +4,11 @@
 
 First, the little icon that pops up in the tab that demonstrates the branding of the website. 
 
-![Microsoft website favicon](../../.gitbook/assets/image%20%2830%29.png)
+![Microsoft website favicon](../../.gitbook/assets/image%20%2833%29.png)
 
 In web development this is called the **`favicon`** and placed in the `<head>` tag as a link. I want the official favicon - so since there's no official repository of Microsoft's website branding resources, I'll just snag it from their website. To do so, I just navigate to one of Microsoft's official websites and go into the source code \(or inspect element\) and **find the .ico file** under the head section.
 
-![Source code for Microsoft&apos;s website](../../.gitbook/assets/image%20%2831%29.png)
+![Source code for Microsoft&apos;s website](../../.gitbook/assets/image%20%2835%29.png)
 
 So now I'll just save the icon at this [link](https://c.s-microsoft.com/favicon.ico?v2) for use as a favicon for my website. This seems to be appropriate now as it is consistent across Microsoft websites and there doesn't seem to be an official MSA logo that is recognisable outside of AU/NZ. Perhaps I could have a partner logo created on their [official partner website](https://partner.microsoft.com/en-us/marketing/branding) but at the moment for the first iteration of this it doesn't seem likely.
 
@@ -16,7 +16,7 @@ So now I'll just save the icon at this [link](https://c.s-microsoft.com/favicon.
 
 Now for Microsoft's Logo. This is quite simple to obtain since it is publicly available on their website so that collaborators are able to use it in their advertising. You can see an example of it being used in the page `<header>` here:
 
-![Microsoft website header and nav](../../.gitbook/assets/image%20%2837%29.png)
+![Microsoft website header and nav](../../.gitbook/assets/image%20%2848%29.png)
 
 Again, I can navigate to their corporate website, dig into the source code and snag it off there or alternatively get the [full-resolution file on their website here](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/logo.aspx).
 
@@ -26,7 +26,7 @@ Again, I can navigate to their corporate website, dig into the source code and s
 
 For Microsoft's font, again I'll dive into their code, this time looking at their styling \(CSS\) to see what font-family they use. Again, this is pretty simple and consistent - Microsoft like to purely use **Seogoe UI** as their font of choice across all their products. The only difference would be the **different sizes** for hierarchy of text. This can be seen here with `h1` as an example:
 
-![h1 with a size of 46px and using Segoe UI](../../.gitbook/assets/image%20%2838%29.png)
+![h1 with a size of 46px and using Segoe UI](../../.gitbook/assets/image%20%2849%29.png)
 
 So for reference, I've found all the sizes they like to use and tabulated the data here.
 

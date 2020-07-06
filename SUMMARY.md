@@ -59,6 +59,7 @@
 * [Workshop 2: Cloud Fundamentals](microsoft-student-accelerator-msa/workshop-2-cloud-fundamentals.md)
 * [Project 2: Web Application](microsoft-student-accelerator-msa/project-2-web-application/README.md)
   * [My idea](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes.md)
+  * [Exploring the old website msa.ms](microsoft-student-accelerator-msa/project-2-web-application/exploring-the-old-website-msa.ms.md)
   * [Exploring themes](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes-1.md)
   * [Collecting assets](microsoft-student-accelerator-msa/project-2-web-application/collecting-assets.md)
   * [Designing the Header](microsoft-student-accelerator-msa/project-2-web-application/untitled.md)
