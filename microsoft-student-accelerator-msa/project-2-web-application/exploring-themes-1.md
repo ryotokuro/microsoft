@@ -13,5 +13,5 @@ Both Elementor and Beaver Builder are the two most popular page builders. Howeve
 Elementor works best with the features on the free plan when compared to Beaver builder.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
