@@ -61,6 +61,7 @@
   * [My idea](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes.md)
   * [Exploring themes](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes-1.md)
   * [Collecting assets](microsoft-student-accelerator-msa/project-2-web-application/collecting-assets.md)
+  * [Untitled](microsoft-student-accelerator-msa/project-2-web-application/untitled.md)
 
 ## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
 
