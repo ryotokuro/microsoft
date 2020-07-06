@@ -41,3 +41,18 @@ So for reference, I've found all the sizes they like to use and tabulated the da
 | h4 \(Footer head\) | 15px | 600 | N/A | N/A | \#616161 |
 | Footer links | 11px | N/A | N/A | 16px | \#616161 |
 
+## Branding Colours
+
+For the website colour palette, we can stick to the default colours \(white, black\). However, if we want any splashes of colour, it would be useful to have the colour codes on deck. [Here we can find the HEX codes for Microsoft's logo](https://brandpalettes.com/microsoft-color-codes/) and also the [MSA branding colours here](https://msa.ms).
+
+| Colour | HEX Code |
+| :--- | :--- |
+| Microsoft ORANGE | \#F25022 |
+| Microsoft GREEN | \#7FBA00 |
+| Microsoft BLUE | \#00A4EF |
+| Microsoft YELLOW | \#FFB900 |
+| Microsoft GREY | \#737373 |
+| MSA PURPLE | \#5C2D91 |
+
+
+
