@@ -82,3 +82,7 @@
 * [Microsoft 365 Fundamentals](microsoft-365/microsoft-365-fundamentals/README.md)
   * [What is Microsoft 365?](microsoft-365/microsoft-365-fundamentals/what-is-microsoft-365.md)
 
+## News
+
+* [Microsoft exams $15 down from $100](news/microsoft-exams-usd15-down-from-usd100.md)
+
