@@ -24,6 +24,10 @@ There is no discrimination between people regardless of where they come from or 
 
 Moreover, Microsoft who is at the forefront of technology has an abundance of resources and people at the company, creating an environment where you can achieve anything you set your mind to. Whether you want to learn some obscure language like COBOL or create a brilliant cloud application, Microsoft has the tools and information to accelerate your learning, as well as a community to support your journey to answer your questions or provide direction for you. This gives tremendous opportunity for anyone within the company to further themselves and develop lifelong skills that are useful inside and outside of their career. Just being fortunate enough to be working at Microsoft gives you so much opportunity beyond the work that you do, making it the ideal workplace for people like me.
 
+## Reviewing the Model Answers
+
+
+
 
 
 
