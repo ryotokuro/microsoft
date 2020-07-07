@@ -66,6 +66,8 @@
   * [Exploring themes](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes-1.md)
   * [Collecting assets](microsoft-student-accelerator-msa/project-2-web-application/collecting-assets.md)
   * [Designing the Header](microsoft-student-accelerator-msa/project-2-web-application/untitled.md)
+  * [Plugins](microsoft-student-accelerator-msa/project-2-web-application/plugins/README.md)
+    * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
 
 ## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
 
