@@ -2,5 +2,5 @@
 
 I'll just be going with the most popular option, having **over 5 million installations** and a **5 star rating**, I think this is the most logical choice.
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2895%29.png)
 

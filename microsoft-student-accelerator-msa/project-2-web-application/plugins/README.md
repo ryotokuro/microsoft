@@ -6,7 +6,7 @@ The first thing that is always good to check out is the Most Popular section in 
 
 Here I've gone ahead and looked at the top 9 plugins and boxed the ones I think will be useful for my website. From there I can figure out what other things I want to include and flesh out the different dependencies that my website will require to support them.
 
-![Top 9 Most Popular Wordpress Plugins](../../../.gitbook/assets/image%20%2897%29.png)
+![Top 9 Most Popular Wordpress Plugins](../../../.gitbook/assets/image%20%2898%29.png)
 
 ### Contact Form
 
