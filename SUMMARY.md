@@ -68,6 +68,7 @@
   * [Designing the Header](microsoft-student-accelerator-msa/project-2-web-application/untitled.md)
   * [Plugins](microsoft-student-accelerator-msa/project-2-web-application/plugins/README.md)
     * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
+    * [SSL](microsoft-student-accelerator-msa/project-2-web-application/plugins/ssl.md)
 
 ## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
 
