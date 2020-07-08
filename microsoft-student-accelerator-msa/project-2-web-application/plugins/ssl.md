@@ -42,7 +42,7 @@ Here we can see the certificate is generated with **RSA 2048** encrypted using *
 
 Moreover, we can see the **expiry date of the certificate** \(basically when I have to renew it\) and see it lasts for 1 year and 2 months until 24 Sep 2021. Additionally, the **Issuer** is also listed here so I can verify that the Certificate Authority at Microsoft IT did in fact issue this certificate. This certificate is therefore trusted across different supported browsers \(since Microsoft is a trusted CA\), which would mean the **SSL applies cross-browser on standard browers.**
 
-![Certificate \#1 Analysis](../../../.gitbook/assets/image%20%28101%29.png)
+![Certificate \#1 Analysis](../../../.gitbook/assets/image%20%28102%29.png)
 
 
 
