@@ -24,6 +24,19 @@ So I found the new domain for the New Zealand MSA program. Looks like they've of
 
 So I think going along that theme would be good. Having a website that's more _localised_ for Australian students perhaps would be ideal. I was originally thinking [https://www.msa.com.au/](https://www.msa.com.au/), but that's already taken of course...
 
+## Domain Name Ideas
+
+I want something that has potential to expand if possible and still conveys the name of the program: Microsoft Student Accelerator. So it needs those words in effect, and potentially limited to Australia.
+
+| Idea | Available? | Verdict |
+| :--- | :--- | :--- |
+| [https://aka.ms/msa](http://aka.ms/msa) | No | Directs to Microsoft's Service Agreement |
+| [https://msaccelerator.com](https://msaccelerator.com) | No | Redirects to Microsoft's venture fund |
+| **https://microsoft-accelerator.com/** | **Yes** | **It's alright.. not a huge fan of hyphens** |
+| **https://sydmsa.com/** | **Yes** | **Might be too restricted \(to Sydney\)** |
+| [https://microsoftau.com](https://microsoftau.com) | No | Directs to Microsoft's website |
+|  |  |  |
+
 
 
 
