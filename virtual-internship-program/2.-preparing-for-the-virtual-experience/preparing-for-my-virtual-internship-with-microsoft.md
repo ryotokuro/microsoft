@@ -36,7 +36,23 @@ Belonging is something that is crucial when working in teams. Members should fee
 
 What's interesting about these answers is they also bring it external sources to move the answer into a discussion. This answer in particular cites up the study of **human psychology** as a source to validate the **connection between a sense of belonging within a team and a person's well-being**. I think this speaks true with anything due to the nature of humans as social creatures, but seems to be especially critical when people are working in teams towards a common goal.
 
-To achieve a harmony in collaboration, a connection between all members 
+To achieve a harmony in collaboration, a connection between all members provides a support structure ensuing comfort and equality amongst all parties. According to [this article](https://www.psychologytoday.com/us/blog/between-cultures/201704/belonging), what comes with a sense of belonging are experiences of **purpose, satisfaction and psychological stability**. On the other hand, **exclusion** \(the opposite of belonging\) results in **physical pain or psychological ailment**. Especially within an organisation, employees may become loyal and believe that the **company truly cares about them and values their worth**.
+
+Due to the importance of this, Microsoft have embodied these positive attributes, **fostering a culture of inclusion and belonging**. By catering towards the needs of all individuals within the organisation without any discrimination, Microsoft has opened itself up to become a widely respected and reputable company. As stated in their [yearly Diversity Report](https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx), the culture of inclusivity aligns with the overall mission; to empower every person and organisation on the planet to achieve more. This includes not only external parties like customers and other businesses, but also their very own employees.
+
+### Experience with working on different teams
+
+> One intern spoke about working on a project with two different teams. What are the benefits of working with different teams?
+
+Instead of being limited to one department and one role for an entire internship \(typically in Microsoft this is a year\), Microsoft provides the opportunity for interns to branch out and interface with different roles and teams within the organisation. As an internship is a time for development and exploration for the incoming interns, having this freedom can be an **enriching experience for their career**, giving them **insight into different areas that they may be interested in**.
+
+According to the intern who spoke of working on a project with different teams, he found this extremely valuable because he had **more exposure to a range of areas** within the company. This gave him a **stronger learning experience** as he now had different mentors and peers whom he could rely on and support in different ways.
+
+What comes with a shift of environment is not only a **change of pace**, but also **fresh perspectives and new ways to think and approach different problems**. As different teams face different challenges when working on the same project, the intern would have been able to see the problem from two sides of the fence - gaining a better overall understanding by seeing the bigger picture. Moreover, having knowledge of the two teams and how they approached their tasks within the project, the intern would have been able to see **what may have worked and failed** and learned strategies on how they could operate successfully in the future.
+
+Furthermore, since teams usually never work alone but rather in unison with different specialisations on a project, it provides a raw and rich environment that the interns can learn in. Having this first-hand experience with working in collaboration with a different side of the company no doubt helped to **deepen their understanding of how the company operated and how they could contribute if they were in that position.**
+
+\*\*\*\*
 
 
 
