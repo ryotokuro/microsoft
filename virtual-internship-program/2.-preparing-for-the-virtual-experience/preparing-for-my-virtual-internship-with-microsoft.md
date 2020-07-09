@@ -26,7 +26,17 @@ Moreover, Microsoft who is at the forefront of technology has an abundance of re
 
 ## Reviewing the Model Answers
 
+After sending in my answers, the internship provided a set of model answers that I could review and compare to my own.
 
+### A sense of belonging
+
+> The interns spoke about a ‘sense of belonging’. Why do you think a sense of belonging is beneficial for an intern?
+
+Belonging is something that is crucial when working in teams. Members should feel like they are a part of the picture and they are contributing to something worthwhile because this investment can motivate them to want to do better. From the video, interns who mentioned this sense of belonging or community within Microsoft felt **empowered and included** and resulted in a more fulfiling experience.
+
+What's interesting about these answers is they also bring it external sources to move the answer into a discussion. This answer in particular cites up the study of **human psychology** as a source to validate the **connection between a sense of belonging within a team and a person's well-being**. I think this speaks true with anything due to the nature of humans as social creatures, but seems to be especially critical when people are working in teams towards a common goal.
+
+To achieve a harmony in collaboration, a connection between all members 
 
 
 
