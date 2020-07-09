@@ -31,6 +31,8 @@ What's more, SMART goals are not only beneficial for **individual goals**, but a
 Complete two Microsoft virtual internships with InsideSherpa by doing at least two modules every week for two hours \(restricting time spent using a timer\) before the 16th of August.
 {% endhint %}
 
+**Note**: I can measure this too through GitHub using my commit history 
+
 ## Reflection
 
 The model work seems more focused and intent on the end-goal in mind; working on Microsoft. My intent is the same yet the model answer elaborates on certain aspects of Microsoft where they can learn from completing this virtual internship. Moreover, there is a sense of responsibility that can be seen with the amount of effort they want to put in as well as their resolve to complete the program, even mentioning they will resort to asking for help if needed. Furthermore, their end statement provides more details on how they will spend their time on the virtual internship - not just completing the tasks but also spending at minimum an hour to review the model answers.
