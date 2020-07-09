@@ -70,6 +70,8 @@
     * [Azure DNS Learn Path](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/azure-dns-learn-path.md)
     * [Introduction](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/introduction.md)
     * [What is  DNS?](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/what-is-dns.md)
+    * [Azure DNS](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/azure-dns.md)
+    * [Configuring Azure DNS](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/configuring-azure-dns.md)
   * [Plugins](microsoft-student-accelerator-msa/project-2-web-application/plugins/README.md)
     * [Contact Form](microsoft-student-accelerator-msa/project-2-web-application/plugins/contact-form.md)
     * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
