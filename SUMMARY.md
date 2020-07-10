@@ -46,6 +46,7 @@
 ## Virtual Internship Program
 
 * [InsideSherpa & Background](virtual-internship-program/insidesherpa-and-background.md)
+* [Goal Tracking](virtual-internship-program/goal-tracking.md)
 * [Engineering Internship](virtual-internship-program/engineering-internship/README.md)
   * [1. Research on Microsoft](virtual-internship-program/engineering-internship/research-on-microsoft.md)
   * [2. Preparing for the Virtual Experience](virtual-internship-program/engineering-internship/2.-preparing-for-the-virtual-experience/README.md)
