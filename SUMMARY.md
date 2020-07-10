@@ -57,7 +57,7 @@
   * [1. Research on Microsoft](virtual-internship-program/go-to-market-internship/1.-research-on-microsoft.md)
   * [2. Preparing for the Virtual Experience](virtual-internship-program/go-to-market-internship/2.-preparing-for-the-virtual-experience/README.md)
     * [Asia Pacific Internship Experience](virtual-internship-program/go-to-market-internship/2.-preparing-for-the-virtual-experience/untitled.md)
-    * [Untitled](virtual-internship-program/go-to-market-internship/2.-preparing-for-the-virtual-experience/untitled-1.md)
+    * [SMART Goals](virtual-internship-program/go-to-market-internship/2.-preparing-for-the-virtual-experience/untitled-1.md)
 
 ## Microsoft Student Accelerator \(MSA\)
 

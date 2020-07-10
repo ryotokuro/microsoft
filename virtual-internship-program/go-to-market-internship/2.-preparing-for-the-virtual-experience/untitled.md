@@ -30,6 +30,10 @@ Be the change you want to see
 
 ## Foreword
 
+{% embed url="https://www.youtube.com/watch?v=L673bVCGJ0g&t=13s" %}
+
+
+
 ![also s/o to weng lmao](../../../.gitbook/assets/image%20%28108%29.png)
 
 
