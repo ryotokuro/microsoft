@@ -46,11 +46,14 @@
 ## Virtual Internship Program
 
 * [InsideSherpa & Background](virtual-internship-program/insidesherpa-and-background.md)
-* [1. Research on Microsoft](virtual-internship-program/research-on-microsoft.md)
-* [2. Preparing for the Virtual Experience](virtual-internship-program/2.-preparing-for-the-virtual-experience/README.md)
-  * [Preparing for my virtual internship with Microsoft](virtual-internship-program/2.-preparing-for-the-virtual-experience/preparing-for-my-virtual-internship-with-microsoft.md)
-  * [SMART goal setting](virtual-internship-program/2.-preparing-for-the-virtual-experience/smart-goal-setting.md)
-* [3. Campus-&gt;Corporate: Business Foundation Skills](virtual-internship-program/3.-campus-greater-than-corporate-business-foundation-skills.md)
+* [Engineering Internship](virtual-internship-program/engineering-internship/README.md)
+  * [1. Research on Microsoft](virtual-internship-program/engineering-internship/research-on-microsoft.md)
+  * [2. Preparing for the Virtual Experience](virtual-internship-program/engineering-internship/2.-preparing-for-the-virtual-experience/README.md)
+    * [Preparing for my virtual internship with Microsoft](virtual-internship-program/engineering-internship/2.-preparing-for-the-virtual-experience/preparing-for-my-virtual-internship-with-microsoft.md)
+    * [SMART goal setting](virtual-internship-program/engineering-internship/2.-preparing-for-the-virtual-experience/smart-goal-setting.md)
+  * [3. Campus-&gt;Corporate: Business Foundation Skills](virtual-internship-program/engineering-internship/3.-campus-greater-than-corporate-business-foundation-skills.md)
+* [Go-To-Market Internship](virtual-internship-program/go-to-market-internship/README.md)
+  * [1. Research on Microsoft](virtual-internship-program/go-to-market-internship/1.-research-on-microsoft.md)
 
 ## Microsoft Student Accelerator \(MSA\)
 
