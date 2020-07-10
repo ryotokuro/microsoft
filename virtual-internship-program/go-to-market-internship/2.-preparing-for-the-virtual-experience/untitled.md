@@ -26,7 +26,25 @@ Be the change you want to see
 
 ## Reflection on Model Answers
 
+### Speed bumps and resilience
 
+> The first intern described her journey as being ‘full of speed bumps and uncertainties’ and then described the benefit of this. Let’s explore what the benefit was and how Microsoft supported her.
+
+The intern spoke of their experience being _'full of speed bumps and uncertainties'_ but also being able to overcome these experiences by being in an environment with _'people who are always willing to lend a hand'_. In addition, she remarked that by overcoming these obstacles, she _'felt more confident'._
+
+This demonstrates the type of culture that Microsoft is fostering. A culture around having a **growth mindset**, being **resilient in face of adversity** and staying **inclusive** towards employees and people alike. This creates an environment of **trust and security** that is built on the older employees and carried onwards and spread around with the interns.
+
+As teamwork is essential in any workplace, Microsoft has fostered attributes that **positively influence their teams**, creating a supportive community to tackle any problems the organisation faces. This feeds the **reward center of the brain** and builds **confidence, trust and respect in employees** within the company who continue to **inspire and bring the best out of each other**.
+
+### An eye-opening experience \(exposure to different technologies\)
+
+Broadening your experience by being open to working across different areas enhances your professional portfolio and opens up opportunities that perhaps you were previously unaware of. It broadens organizational knowledge, increases exposure to the business and a range of people. Working in different teams introduces you to different ways of working, thinking, approaches, styles and specialist knowledge. You start to see how all the parts of an organization need to work together to achieve the organization’s goals. You get the opportunity to directly observe what works well, what can be challenging, how to overcome obstacles, how to collaborate and how to work in a team. This practical experience is essential for understanding how organizations and teams work and how to contribute in a way that is valued.
+
+Broad industry knowledge is important for your professional development. Industry is always changing. Staying up to date in your industry, is now a necessity. Our world is ever-changing, driven by evolving innovation and technologies that carve out new trends across all industries. Keeping your knowledge current will not only secure your relevance in the role but will also contribute to growth, experience and a competitive advantage in the marketplace.
+
+### A life-changing experience
+
+Microsoft's mission is to _empower every person and every organisation on the planet to achieve more_. . Achieving that mission begins and ends with people: Our people and the people we provide products and services to, whether they’re organizations or individuals. We believe technology is a powerful force in improving people’s lives. We see it every day in our work — whether its students discovering the magic of creating something new with code, or health workers who use cloud services to better diagnose illnesses, collaborate with colleagues, and treat patients. The potential of technology to empower people and organizations has never been greater. We hire amazing people to do amazing things. Come as you are. Do what you love. How can that be anything other than life-changing?
 
 ## Foreword
 
