@@ -2,7 +2,7 @@
 
 Again in this module, Chin-Tang greets us with an introduction to the virtual internship.
 
-![Chin-Tang&apos;s LinkedIn](../../../.gitbook/assets/image%20%28111%29.png)
+![Chin-Tang&apos;s LinkedIn](../../../.gitbook/assets/image%20%28112%29.png)
 
 ## The importance of preparation
 
@@ -12,15 +12,15 @@ It's foolish in fact, to explore a cave without any gear. Without a flashlight, 
 
 If you take an a small specialised army who has trained for many scenarios and face them against an army 10 times their size but without any preparation, then it is assured that the ones who have prepared will win. There are so many factors that are to be accounted for in war; strategy, formation, terrain, weaponry, skill, battle-flow. This unpredictable nature is much like reality.
 
+## Research and planning for work
+
 For the workplace, this requires **research and planning** on the field and company you will be working in. Knowing what parts of the business you will like to work in and what you are likely to epxerience gives your journey a sense of reality - assure what you already know and what you need to know about real workplace experience
 
-the one to empower billions - scale of impact at microsoft is amazing
+As Microsoft, you are part of a greater picture, becoming an **individual that can empower billions**. With this, you can see that the **scale of impact at Microsoft is truly astounding**. Along with this comes with opportunities for you to innovate and push your career in new ways.
 
-chance to innovate
+## The COVID Situation
 
-COVID
-
--executive briefing is online
+Now with COVID, the work landscape has been called to change drastically. Briefings are now conducted online, and **public-facing events are now required to be digital**. 
 
 in the next year, all events will be digital
 
