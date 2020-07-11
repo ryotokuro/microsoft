@@ -91,7 +91,13 @@
   * [Plugins](microsoft-student-accelerator-msa/project-2-web-application/plugins/README.md)
     * [Contact Form](microsoft-student-accelerator-msa/project-2-web-application/plugins/contact-form.md)
     * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
+    * [Anti-spam](microsoft-student-accelerator-msa/project-2-web-application/plugins/anti-spam.md)
     * [SSL](microsoft-student-accelerator-msa/project-2-web-application/plugins/ssl.md)
+  * [Improving site Health](microsoft-student-accelerator-msa/project-2-web-application/improving-site-health.md)
+  * [Building page templates](microsoft-student-accelerator-msa/project-2-web-application/building-page-templates.md)
+  * [Adding custom CSS](microsoft-student-accelerator-msa/project-2-web-application/adding-custom-css.md)
+  * [Interactivity with JS](microsoft-student-accelerator-msa/project-2-web-application/interactivity-with-js.md)
+  * [Managing Wordpress from the terminal](microsoft-student-accelerator-msa/project-2-web-application/managing-wordpress-from-the-terminal.md)
 
 ## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
 
