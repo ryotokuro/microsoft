@@ -87,6 +87,7 @@
     * [What is  DNS?](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/what-is-dns.md)
     * [Azure DNS](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/azure-dns.md)
     * [Configuring Azure DNS](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/configuring-azure-dns.md)
+    * [Buying a custom domain on GoDaddy](microsoft-student-accelerator-msa/project-2-web-application/a-custom-domain-using-azure-dns/buying-a-custom-domain-on-godaddy.md)
   * [Plugins](microsoft-student-accelerator-msa/project-2-web-application/plugins/README.md)
     * [Contact Form](microsoft-student-accelerator-msa/project-2-web-application/plugins/contact-form.md)
     * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
