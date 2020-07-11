@@ -4,7 +4,7 @@ So for a custom domain, I'll be using GoDaddy to find what's available and affor
 
 I'll have this domain for a year, so hopefully I can make use of it and continue to build on this website beyond the project submission.
 
-![GoDaddy purchased domains](../../../.gitbook/assets/image%20%28124%29.png)
+![GoDaddy purchased domains](../../../.gitbook/assets/image%20%28126%29.png)
 
 ## Not configuring a custom domain
 

@@ -10,17 +10,17 @@ To enable spam filtering on my website, I'll first need to set up an Akismet acc
 
 So Personal is really the optional pricing tier. Even though it only offers spam protection, they still ask you to name your price by dragging a slider on the payment screen. Here I'm going with $0 because I need money to live.
 
-![](../../../.gitbook/assets/image%20%28120%29.png)
+![](../../../.gitbook/assets/image%20%28121%29.png)
 
-![](../../../.gitbook/assets/image%20%28122%29.png)
+![](../../../.gitbook/assets/image%20%28123%29.png)
 
 This changes my plan from a "commercial-license" to now a "non-commercial license" which is totally fine with me. Now they won't need my payment details and will simply take my name and website down.
 
-![](../../../.gitbook/assets/image%20%28118%29.png)
+![](../../../.gitbook/assets/image%20%28119%29.png)
 
 ## Connecting Anti-spam to my website
 
 Now to hook up and activate the anti-spam plugin, I simply take the API key that was emailed to me and manually enter it in the plugin settings.
 
-![](../../../.gitbook/assets/image%20%28121%29.png)
+![](../../../.gitbook/assets/image%20%28122%29.png)
 
