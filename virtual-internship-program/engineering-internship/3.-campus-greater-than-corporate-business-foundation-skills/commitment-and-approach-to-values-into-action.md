@@ -38,5 +38,5 @@ Along with the new wave of AI, Microsoft sees the value and opportunity AI provi
 
 ## Trustworthy Computing
 
-Microsoft who started as a "computer company" has always had its roots in shaping a unique computing experience in Windows. To this day Microsoft continues to do just that, evolving their software as a leading OS
+Microsoft who started as a "computer company" has always had its roots in shaping a unique computing experience in Windows. To this day Microsoft continues to do just that, evolving their software as a leading OS and developing its **security, privacy and reliability**.
 
