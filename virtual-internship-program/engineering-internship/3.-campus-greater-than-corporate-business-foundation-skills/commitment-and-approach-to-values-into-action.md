@@ -78,6 +78,15 @@ Hence, to avoid limiting business processes using the intelligent cloud, Microso
 
 To build trust within and without Microsoft, the organization has placed a focus on **six key privacy principles**: being **control**, **transparency**, **security**, **legal protection**, **no content-based targeting** and **personalised benefits**.
 
+| Privacy principle | Meaning |
+| :--- | :--- |
+| Control | Microsoft will always give you control over the privacy of your data |
+| Transparency | Microsoft will be transparent about what data they collect so you may make an informed decision about what data to share |
+| Security | Microsoft ensures the data you provide is kept private and secure through encryption |
+| Legal protection | Microsoft will adhere to **local privacy laws** of your area and moreover fight for your basic privacy rights as a human |
+| No content targeting | With the data that you provide through private Microsoft services \(such as email or chat; Microsoft Live and Teams/Yammer e.g.\), Microsoft ensures that this data will not be used to better target advertisements toward you |
+| Benefits for you | Microsoft will use the data it collects to better your experiences with its products, services and devices. This could be through smarter personalisation or intelligence suggestions based on your patterns. |
+
 These principles form the **foundation for how Microsoft approaches privacy** and shapes how Microsoft builds and develops its products and services. Moreover, Microsoft provides all this information to the public available on their website for users to understand how data is collected and used. For enterprise business customers especially, [Microsoft’s Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=760384) details how Microsoft works to protect customer data in Microsoft Cloud \(from Azure being Cloud Computing to storage in SharePoint\).
 
 Across Microsoft’s products and services, the data it collects is fed back into the system to help **improve the user experience across devices, products, and services**. This is all so that Microsoft can deliver a **personalized experience** for each user while also keeping you safe \(protecting you and your data from attacks\).
