@@ -40,3 +40,17 @@ Along with the new wave of AI, Microsoft sees the value and opportunity AI provi
 
 Microsoft who started as a "computer company" has always had its roots in shaping a unique computing experience in Windows. To this day Microsoft continues to do just that, evolving their software as a leading OS and developing its **security, privacy and reliability**.
 
+{% hint style="info" %}
+## “If we can’t protect people, then we don’t deserve their trust.”
+
+- Brad Smith, President and Chief Legal Officer
+{% endhint %}
+
+## A story of innovation
+
+### Recovering photos using Artificial Intelligence
+
+With major breakthroughs in Artificial Intelligence occuring every day,
+
+## A story of trustworthy computing
+
