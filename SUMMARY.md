@@ -121,3 +121,7 @@
 
 * [Microsoft exams $15 down from $100](news/microsoft-exams-usd15-down-from-usd100.md)
 
+## Microsoft Reactor
+
+* [PowerApps workshop](microsoft-reactor/powerapps-workshop.md)
+
