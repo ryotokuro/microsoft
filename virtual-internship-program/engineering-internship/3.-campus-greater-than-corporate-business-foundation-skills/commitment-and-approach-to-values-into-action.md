@@ -54,3 +54,7 @@ With major breakthroughs in Artificial Intelligence occuring every day,
 
 ## A story of trustworthy computing
 
+### Privacy
+
+### Trusted sensing for the cloud
+
