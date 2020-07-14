@@ -48,13 +48,39 @@ Microsoft who started as a "computer company" has always had its roots in shapin
 
 ## A story of innovation
 
-### Recovering photos using Artificial Intelligence
+### Solutions for sign-language communities
 
-With major breakthroughs in Artificial Intelligence occuring every day,
+{% embed url="https://www.microsoft.com/en-us/research/podcast/accessible-systems-for-sign-language-computation-with-dr-danielle-bragg/" %}
+
+With the democratization of Artificial Intelligence, many researchers in computer science have turned to look at how they can use AI to build solutions that will impact hundreds of millions or even billions of people across the world. In this story, Dr. Danielle Bragg has look at the population of 70 million people worldwide who rely on sign language for communication and see how AI can empower them.
+
+With this endeavour, Dr. Bragg researched how she might expand access to information that met the needs of the deaf and the wider sign-language community. Standing at the intersection point of Human-Computer Interaction \(HCI\), Accessibility and Artificial Intelligence, her work focuses on building systems to provide access to information for people with disabilities.
+
+Located in Cambridge, her team is tackling the unique technical challenges that ASL \(American Sign Language\) brings. For ASL, which is the primary mode of communication for the deaf community in the United States, there are specific linguistic features which differentiate it from other types of sign languages. These include the hand shape, location, movement, facial expressions, etc that make up the natural language.
+
+Just like other languages, a whole culture has developed around regional sign language – where different sub-populations form more specific nuances like slang, idioms, etc. This takes form just like any other spoken language, where there are things like deaf poetry, rich storytelling and unique genres that come about due to the highly visual nature of sign language.
+
+Dr. Bragg’s work therefore tries to preserve this culture and support people’s interactions with technology by developing applications that contribute and provide benefit to the deaf community. This allows her to actively collect data that she can use to research further and build data-driven applications, without having to hassle individuals or harass the community for data which would raise privacy concerns. This solution to data scarcity due to the small population of deaf minorities has made it easier to collect data, incentivized through assistance.
+
+Eventually, the end-goal would be to develop an application that provides end-to-end bi-directional translation \(for example: between sign language and English\). With advances in Deep Learning and Convolutional Neural Nets, this ideal has begun to look more promising.
 
 ## A story of trustworthy computing
 
 ### Privacy
 
-### Trusted sensing for the cloud
+![Satya cares about your privacy](../../../.gitbook/assets/image%20%28133%29.png)
+
+{% embed url="https://privacy.microsoft.com/en-US/" %}
+
+While this is not exactly a story, the above link outlines the privacy policies and values that Microsoft holds on security at a user level. Considering the frightening pace at which technology evolves alongside growing concerns of the public about the collection of their information, Microsoft has strived to maintain a strong position on privacy on data, whilst providing adequate control for its users.
+
+Hence, to avoid limiting business processes using the intelligent cloud, Microsoft begins addressing privacy from the start – with **how data is collected and used**. This means that users are provided the essential information about their data \(how it is collected and used\) to make informed decisions on what happens to their data across Microsoft’s products and services.
+
+To build trust within and without Microsoft, the organization has placed a focus on **six key privacy principles**: being **control**, **transparency**, **security**, **legal protection**, **no content-based targeting** and **personalised benefits**.
+
+These principles form the **foundation for how Microsoft approaches privacy** and shapes how Microsoft builds and develops its products and services. Moreover, Microsoft provides all this information to the public available on their website for users to understand how data is collected and used. For enterprise business customers especially, [Microsoft’s Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=760384) details how Microsoft works to protect customer data in Microsoft Cloud \(from Azure being Cloud Computing to storage in SharePoint\).
+
+Across Microsoft’s products and services, the data it collects is fed back into the system to help **improve the user experience across devices, products, and services**. This is all so that Microsoft can deliver a **personalized experience** for each user while also keeping you safe \(protecting you and your data from attacks\).
+
+As such, the data they collect is associated with their products including web browsing and online search history, places you visit, contextual reminders \(such as traffic checkups or anniversary highlights\), interests for advertising, sign-in and payment for syncing data and diagnostic system data across devices and online experiences.
 

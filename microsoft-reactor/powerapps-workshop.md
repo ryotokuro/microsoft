@@ -2,7 +2,7 @@
 
 This workshop was ran by Bruce Sithole, who has been using 365 for over 10 years. He started building Power Apps to demonstrate the usefulness of CRM software to sales teams where he saw the potential of the platform after building multiple applications.
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ## About Power Apps
 
@@ -18,7 +18,7 @@ The traditional model with building solutions poses problems that stem from the 
 * **Complex processes**
   * As the world changes over time, business processes have to adapt on the fly - often resulting in a build-up of more and more dependencies, which in turn create more complex processes. As a result, employees have become comfortable and reliant on the systems their work is built upon, despite them being slow or clunky.
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 ### The Power Platform
 
