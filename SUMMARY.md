@@ -125,3 +125,8 @@
 
 * [Microsoft exams $15 down from $100](news/microsoft-exams-usd15-down-from-usd100.md)
 
+## Interview Preparation
+
+* [Azure \(Cloud\) Application & Infrastructure Specialist Roles](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles.md)
+* [Technology Strategist Roles](interview-preparation/technology-strategist-roles.md)
+
