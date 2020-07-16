@@ -57,6 +57,8 @@
   * [Adding custom CSS](microsoft-student-accelerator-msa/project-2-web-application/adding-custom-css.md)
   * [Interactivity with JS](microsoft-student-accelerator-msa/project-2-web-application/interactivity-with-js.md)
   * [Managing Wordpress from the terminal](microsoft-student-accelerator-msa/project-2-web-application/managing-wordpress-from-the-terminal.md)
+  * [Next steps: Editing content](microsoft-student-accelerator-msa/project-2-web-application/next-steps-editing-content.md)
+  * [The main page](microsoft-student-accelerator-msa/project-2-web-application/the-main-page.md)
 
 ## Power Platform
 
