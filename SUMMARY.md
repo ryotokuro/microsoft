@@ -60,6 +60,11 @@
   * [Next steps: Editing content](microsoft-student-accelerator-msa/project-2-web-application/next-steps-editing-content.md)
   * [The main page](microsoft-student-accelerator-msa/project-2-web-application/the-main-page.md)
 
+## Interview Preparation
+
+* [Azure \(Cloud\) Application & Infrastructure Specialist Roles](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles.md)
+* [Technology Strategist Roles](interview-preparation/technology-strategist-roles.md)
+
 ## Power Platform
 
 * [Power Platform Fundamentals](power-platform/power-platform-fundamentals/README.md)
@@ -126,9 +131,5 @@
 ## News
 
 * [Microsoft exams $15 down from $100](news/microsoft-exams-usd15-down-from-usd100.md)
-
-## Interview Preparation
-
-* [Azure \(Cloud\) Application & Infrastructure Specialist Roles](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles.md)
-* [Technology Strategist Roles](interview-preparation/technology-strategist-roles.md)
+* [Microsoft's cultural transformation](news/microsofts-cultural-transformation.md)
 
