@@ -64,6 +64,22 @@ So using this, businesses can concentrate on business needs because **Microsoft 
 
 ![](../../../.gitbook/assets/image%20%28142%29.png)
 
+## The benefits of digital transformation
+
+With **Microsoft 365, Dynamics 365 and LinkedIn**, organisations are now able to digitise **business-critical functions**. This has redefined how businesses now look at their operations where:
+
+* instead of sales management, it has become social selling
+* instead of people management, it's now employee engagement
+  * The question has changed from how can we manage these people to how can we effective engage our employees so they can achieve more?
+
+By leveraging Microsoft's tools - businesses can **reframe what they want to achieve** and do more.
+
+## Democratising AI
+
+With **Azure, Microsoft has revealed its intent to democratise AI such that EVERY COMPANY can be an AI COMPANY** and every partner can build AI into their own solutions. In a data-driven world, this is critical for businesses to quickly create, deploy and scale their solutions enabled in the Cloud.
+
+Whether it's a 50-year-old insurance business, or a new age legal startup, Microsoft is creating a better future for all its customers, empowering them through their solution areas of the **Modern Workplace, Business Applications, Applications & Infrastructure and Data & AI**.
+
 ## Crossword fun
 
 This task was a fun way to end off the module, with a crossword to fill in Word. Not too hard, and it helps to remember the different solution areas that Microsoft invested in.
