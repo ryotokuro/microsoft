@@ -1,2 +1,2 @@
-# The main page
+# The front page
 
