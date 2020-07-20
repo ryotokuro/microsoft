@@ -1,4 +1,4 @@
-# Analysing msa.ms \(old website\)
+# Exploring msa.ms \(old website\)
 
 I was looking around for a website to see if I could get an idea of how MSA does their branding, but it doesn't seem like one currently exists. However, going to their youtube channel in their About section, they reference a website available at the link [msa.ms](https://msa.ms) which doesn't seem to be supported anymore.
 
