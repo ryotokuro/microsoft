@@ -55,6 +55,7 @@
     * [Implementing SEO](microsoft-student-accelerator-msa/project-2-web-application/plugins/implementing-seo.md)
     * [Anti-spam](microsoft-student-accelerator-msa/project-2-web-application/plugins/anti-spam.md)
     * [SSL](microsoft-student-accelerator-msa/project-2-web-application/plugins/ssl.md)
+  * [Transfering to a new domain](microsoft-student-accelerator-msa/project-2-web-application/transfering-to-a-new-domain.md)
   * [Improving site Health](microsoft-student-accelerator-msa/project-2-web-application/improving-site-health.md)
   * [Adding custom CSS](microsoft-student-accelerator-msa/project-2-web-application/adding-custom-css.md)
   * [Interactivity with JS](microsoft-student-accelerator-msa/project-2-web-application/interactivity-with-js.md)
@@ -64,7 +65,10 @@
     * [Global elements](microsoft-student-accelerator-msa/project-2-web-application/the-main-page/global-elements.md)
     * [Layouts are good sometimes](microsoft-student-accelerator-msa/project-2-web-application/the-main-page/layouts-are-good-sometimes.md)
     * [Customising the front page](microsoft-student-accelerator-msa/project-2-web-application/the-main-page/customising-the-front-page.md)
+  * [Revisiting the contact form](microsoft-student-accelerator-msa/project-2-web-application/revisiting-the-contact-form.md)
   * [RYTE SEO Analysis](microsoft-student-accelerator-msa/project-2-web-application/ryte-seo-analysis.md)
+  * [Cache Management](microsoft-student-accelerator-msa/project-2-web-application/cache-management.md)
+  * [Analytics plugin](microsoft-student-accelerator-msa/project-2-web-application/analytics-plugin.md)
   * [Linking my Gitbook posts to Wordpress](microsoft-student-accelerator-msa/project-2-web-application/linking-my-gitbook-posts-to-wordpress.md)
 
 ## Interview Preparation

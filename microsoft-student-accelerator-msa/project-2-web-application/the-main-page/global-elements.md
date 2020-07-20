@@ -4,7 +4,7 @@
 
 At the moment I'm sticking with the Microsoft styling since it's cleaner. However, I think I might want to redesign the MSA logo and incorporate that instead as MSA has it's own unique branding as explored previously. As for links, I'll in future add a **'Programs'** page that has information about the Student, Teacher and Kids program \(Imagine Cup\).
 
-![](../../../.gitbook/assets/image%20%28149%29.png)
+![](../../../.gitbook/assets/image%20%28151%29.png)
 
 ## Footer
 
