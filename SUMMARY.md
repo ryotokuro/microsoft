@@ -123,6 +123,12 @@
   * [Principles of cloud computing](microsoft-azure/untitled/principles-of-cloud-computing/README.md)
     * [An analogy](microsoft-azure/untitled/principles-of-cloud-computing/an-analogy.md)
 * [Core Cloud Services](microsoft-azure/core-cloud-services.md)
+* [AZ-900](microsoft-azure/az-900/README.md)
+  * [Virtual Training Day](microsoft-azure/az-900/virtual-training-day/README.md)
+    * [1.](microsoft-azure/az-900/virtual-training-day/1..md)
+    * [2.](microsoft-azure/az-900/virtual-training-day/2..md)
+    * [3.](microsoft-azure/az-900/virtual-training-day/3..md)
+    * [4.](microsoft-azure/az-900/virtual-training-day/4..md)
 
 ## Microsoft 365
 
