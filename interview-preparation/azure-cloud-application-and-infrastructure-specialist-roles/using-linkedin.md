@@ -17,3 +17,7 @@ So to better prepare myself this time round, I've taken the initiative to reach 
 
 ![](../../.gitbook/assets/image%20%28164%29.png)
 
+## Cloud Solutions is Pre-sales
+
+[https://en.wikipedia.org/wiki/Presales](https://en.wikipedia.org/wiki/Presales)
+
