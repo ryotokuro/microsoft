@@ -77,7 +77,8 @@
   * [Revisiting my assessment](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/revisiting-my-assessment.md)
   * [The technical assessment](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/untitled.md)
   * [Using LinkedIn](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/using-linkedin.md)
-* [Technology Strategist Roles](interview-preparation/technology-strategist-roles.md)
+* [Technology Strategist Roles](interview-preparation/technology-strategist-roles/README.md)
+  * [Partner Technical Architect](interview-preparation/technology-strategist-roles/partner-technical-architect.md)
 
 ## Power Platform
 
