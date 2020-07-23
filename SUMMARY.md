@@ -75,7 +75,7 @@
 
 * [Azure \(Cloud\) Application & Infrastructure Specialist Roles](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/README.md)
   * [Revisiting my assessment](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/revisiting-my-assessment.md)
-  * [Untitled](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/untitled.md)
+  * [The technical assessment](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/untitled.md)
   * [Using LinkedIn](interview-preparation/azure-cloud-application-and-infrastructure-specialist-roles/using-linkedin.md)
 * [Technology Strategist Roles](interview-preparation/technology-strategist-roles.md)
 
