@@ -68,7 +68,7 @@
   * [Revisiting the contact form](microsoft-student-accelerator-msa/project-2-web-application/revisiting-the-contact-form.md)
   * [RYTE SEO Analysis](microsoft-student-accelerator-msa/project-2-web-application/ryte-seo-analysis.md)
   * [Cache Management](microsoft-student-accelerator-msa/project-2-web-application/cache-management.md)
-  * [Analytics plugin](microsoft-student-accelerator-msa/project-2-web-application/analytics-plugin.md)
+  * [Traffic Monitoring and Analytics](microsoft-student-accelerator-msa/project-2-web-application/analytics-plugin.md)
   * [Linking my Gitbook posts to Wordpress](microsoft-student-accelerator-msa/project-2-web-application/linking-my-gitbook-posts-to-wordpress.md)
 
 ## Interview Preparation
