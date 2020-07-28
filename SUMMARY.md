@@ -69,8 +69,8 @@
   * [RYTE SEO Analysis](microsoft-student-accelerator-msa/project-2-web-application/ryte-seo-analysis.md)
   * [Cache Management](microsoft-student-accelerator-msa/project-2-web-application/cache-management.md)
   * [Traffic Monitoring and Analytics](microsoft-student-accelerator-msa/project-2-web-application/analytics-plugin.md)
-  * [Blog](microsoft-student-accelerator-msa/project-2-web-application/linking-my-gitbook-posts-to-wordpress.md)
   * [FAQ](microsoft-student-accelerator-msa/project-2-web-application/faq.md)
+  * [Documentation](microsoft-student-accelerator-msa/project-2-web-application/documentation.md)
 
 ## Interview Preparation
 
