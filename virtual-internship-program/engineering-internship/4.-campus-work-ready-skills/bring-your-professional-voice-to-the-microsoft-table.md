@@ -30,6 +30,10 @@ This is often denoted as the phenomenon of **'Confirmation Bias'** where people 
 So essentially, if you **project confidence**, others will believe your words and look to **filter information that supports their impression of you.**
 {% endhint %}
 
+## Showing confidence is a matter of communication
+
+
+
 ## Don't fake confidence, but recognise your worth
 
 While confidence should be displayed, you shouldn't blindly project false confidence as it portrays a false image of you. One should be confident, but also **aware of their own shortcomings** and where they can communicate lack of ability/knowledge - that too is a strength of communication. For **genuine confidence, you should seek to understand your own worth and where your strengths lie**.
