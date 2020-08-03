@@ -47,6 +47,18 @@ People will feed off your own energy and accept the image that you bring to them
 
 To convince others of your abilities, you need to **get in the habit of communicating to others what you are good at**. This is especially true in interviews - these people don't know you. They don't know your story, nor have the time to sit and understand everything about you. They can only evaluate what you present to them, and judge whether or not you are good for the job based on your appearance; this pertains to your behaviour, actions and speech.
 
+## Confidence is a delicate balance
+
+While it is important to be assertive to ensure that your ideas are heard, confidence is a **delicate balance**. There's a fine line that shouldn't be crossed where you may veer into **arrogance**, where over-confidence can put you in dangerous situations leagues above your true capability.
+
+This balancing act requires a good amount of **self-awareness and emotional intelligence** to keep yourself in check as you project confidence.
+
+{% hint style="info" %}
+A healthy amount of confidence should **push you just enough out of your comfort zone to provide a meaningful challenge** instead of creating an unpassable wall of overwhelming difficulty.
+{% endhint %}
+
+What's more - **confidence is extremely attractive**, so people naturally gravitate towards people who exude confidence. 
+
 ## Authentic confidence is understanding yourself
 
 To be fully confident in yourself, you need to **understand what value you have as a person**. This can be determined by asking yourself things such as:
