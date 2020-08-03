@@ -18,7 +18,7 @@
     * [Microsoft's cultural transformation](virtual-internship-program/engineering-internship/3.-campus-greater-than-corporate-business-foundation-skills/microsofts-cultural-transformation.md)
     * [Microsoft's solutions for digital transformation](virtual-internship-program/engineering-internship/3.-campus-greater-than-corporate-business-foundation-skills/microsofts-solutions-for-digital-transformation.md)
   * [4. Campus: Work Ready Skills](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/README.md)
-    * [My professional voice to the Microsoft table](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table.md)
+    * [My professional voice \(be confident\)](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table.md)
     * [A professional approach to meetings](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/a-professional-approach-to-meetings.md)
     * [The importance of your personal brand](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/the-importance-of-your-personal-brand.md)
   * [5. Work Ready Skills](virtual-internship-program/engineering-internship/5.-work-ready-skills.md)

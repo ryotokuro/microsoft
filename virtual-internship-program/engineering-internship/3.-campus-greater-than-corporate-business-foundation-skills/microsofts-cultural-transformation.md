@@ -42,7 +42,7 @@ Moreover, this speaks true towards Microsoft values brought up earlier - of Resp
 
 ### Customer obsessive
 
-Microsoft employees don't know it all, nor do they claim to know everything. In fact, that's the whole meaning behind having the growth mindset. In the case of a customer, an employee won't try to shove Microsoft products down your throat and try to convince you to buy them all. Rather, Microsoft is all about listening to the customer with an open mind and open heart - learning what they
+Microsoft employees don't know it all, nor do they claim to know everything. In fact, that's the whole meaning behind having the growth mindset. In the case of a customer, an employee won't try to shove Microsoft products down your throat and try to convince you to buy them all. Rather, Microsoft is all about listening to the customer with an open mind and open heart - learning what they need and accomodating for them based on their feedback.
 
 ### Diverse and inclusive
 
