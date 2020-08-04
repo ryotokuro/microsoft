@@ -34,6 +34,26 @@ So essentially, if you **project confidence**, others will believe your words an
 
 
 
+## Confidence is a delicate balance
+
+While it is important to be assertive to ensure that your ideas are heard, confidence is a **delicate balance**. There's a fine line that shouldn't be crossed where you may veer into **arrogance**, where over-confidence can put you in dangerous situations leagues above your true capability.
+
+This balancing act requires a good amount of **self-awareness and emotional intelligence** to keep yourself in check as you project confidence.
+
+{% hint style="info" %}
+A healthy amount of confidence should **push you just enough out of your comfort zone to provide a meaningful challenge** instead of creating an unpassable wall of overwhelming difficulty.
+{% endhint %}
+
+## Companies value confidence
+
+What's more - **confidence is extremely attractive**, so people naturally gravitate towards people who exude confidence. If you have the confidence, you can be **decisive** and intentional with your actions - meaning you provide a clear direction as a leader. People will be able to **trust you and feel that you have control over the matter** as a team.
+
+Another valuable aspect of confidence is that **employees which often become the face of the company** represent to the public what the company is, such that their perspectives are shaped by their interactions with its workers. With confidence, employees can be more atute spokespeople of their organisation and be **more engaging** with those outside of the company \(this is the very concept of **brand perception**\).
+
+If you think like this, the receptionist of your workplace thereby is extremely important as they serve as the first interaction people will have once they step into your space.
+
+Additionally, confident people are typically more active and contribute positively; serving as good role-models for being productive and innovative in the workplace. Again, **confident employees are people who are sure of themselves - so they can serve as pillars for other individuals to look up to**.
+
 ## Don't fake confidence, but recognise your worth
 
 While confidence should be displayed, you shouldn't blindly project false confidence as it portrays a false image of you. One should be confident, but also **aware of their own shortcomings** and where they can communicate lack of ability/knowledge - that too is a strength of communication. For **genuine confidence, you should seek to understand your own worth and where your strengths lie**.
@@ -46,18 +66,6 @@ People will feed off your own energy and accept the image that you bring to them
 {% endhint %}
 
 To convince others of your abilities, you need to **get in the habit of communicating to others what you are good at**. This is especially true in interviews - these people don't know you. They don't know your story, nor have the time to sit and understand everything about you. They can only evaluate what you present to them, and judge whether or not you are good for the job based on your appearance; this pertains to your behaviour, actions and speech.
-
-## Confidence is a delicate balance
-
-While it is important to be assertive to ensure that your ideas are heard, confidence is a **delicate balance**. There's a fine line that shouldn't be crossed where you may veer into **arrogance**, where over-confidence can put you in dangerous situations leagues above your true capability.
-
-This balancing act requires a good amount of **self-awareness and emotional intelligence** to keep yourself in check as you project confidence.
-
-{% hint style="info" %}
-A healthy amount of confidence should **push you just enough out of your comfort zone to provide a meaningful challenge** instead of creating an unpassable wall of overwhelming difficulty.
-{% endhint %}
-
-What's more - **confidence is extremely attractive**, so people naturally gravitate towards people who exude confidence. 
 
 ## Authentic confidence is understanding yourself
 
@@ -79,4 +87,10 @@ Similarly for jobs, you have similar questions to the same end:
 People will naturally gravitate to those who appear strong as those are the ones who rise and become **leaders**. This is the voice that is the clearest in the storm and stands firm and confident in their position. By being confident, you set yourself up to be **recognised for your accomplishments and competence**.
 
 {% embed url="https://hbr.org/2019/03/to-seem-more-competent-be-more-confident" %}
+
+## Strategy: Closely monitor your success
+
+I think coming out from this task, I have a more whole understanding of confidence and how important it is, especially when interacting with people at work. This image of you that others see is greatly affected by what you show them. Therefore, choosing confidence to positively bring to light your strengths is something that I want to develop more so that I can take on more challenges and grow and people will want to rely on me more \(becoming more dependable and competent\).
+
+So I want to start tracking my accomplishments \(usually this is placed in a resume\) but having a place to mark these down of things that are impressible and feats that I consider extremely worthwhile. Moreover, I want to work towards more challenging projects so that I feel and become more competent!
 
