@@ -20,6 +20,7 @@
   * [4. Campus: Work Ready Skills](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/README.md)
     * [My professional voice \(be confident\)](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table/README.md)
       * [Confidence in meetings](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table/confidence-in-meetings.md)
+      * [Confidence in business](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table/confidence-in-business.md)
       * [Confidence in communication](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table/confidence-in-communication.md)
       * [The task](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/bring-your-professional-voice-to-the-microsoft-table/the-task.md)
     * [A professional approach to meetings](virtual-internship-program/engineering-internship/4.-campus-work-ready-skills/a-professional-approach-to-meetings.md)
