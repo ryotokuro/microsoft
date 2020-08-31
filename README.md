@@ -6,7 +6,7 @@ description: What is this space? Why Microsoft?
 
 ## Topics
 
-{% page-ref page="microsoft-azure-workshop-series/power-platform.md" %}
+{% page-ref page="microsoft-azure-workshop-series/power-platform/" %}
 
 ## Why Microsoft?
 
