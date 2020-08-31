@@ -144,8 +144,12 @@
 * [Microsoft 365 Fundamentals](microsoft-365/microsoft-365-fundamentals/README.md)
   * [What is Microsoft 365?](microsoft-365/microsoft-365-fundamentals/what-is-microsoft-365.md)
 
-## Azure Up \(Cloud Society\) <a id="microsoft-azure-workshop-series"></a>
+## UNSW Cloud Society <a id="microsoft-azure-workshop-series"></a>
 
+* [Microsoft Azure](microsoft-azure-workshop-series/microsoft-azure/README.md)
+  * [Workshop 1](microsoft-azure-workshop-series/microsoft-azure/workshop-1.md)
+  * [Workshop 2](microsoft-azure-workshop-series/microsoft-azure/workshop-2.md)
+  * [Workshop 3](microsoft-azure-workshop-series/microsoft-azure/workshop-3.md)
 * [Power Platform](microsoft-azure-workshop-series/power-platform.md)
 * [AI Builder & Canvas Apps](microsoft-azure-workshop-series/untitled/README.md)
   * [Building a Helmet Detection App](microsoft-azure-workshop-series/untitled/building-a-helmet-detection-app.md)
