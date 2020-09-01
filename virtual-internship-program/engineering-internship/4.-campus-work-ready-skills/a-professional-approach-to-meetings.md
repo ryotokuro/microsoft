@@ -41,5 +41,44 @@ It is important however to **not interrupt others while they are talking/present
 
 {% embed url="https://www.aib.edu.au/blog/teamwork/effectively-contributing-at-meetings/" %}
 
+## How introverts can contribute to meetings
 
+Another common theme occurs where introverts find it difficult to pitch in meetings since they are innately shy or find it stressful to voice up at times. This is a problem however when considering that many workplaces will have weekly or even daily meetings where the team is called to gather and discuss topics that bring together different sides of the company. As an introvert myself, knowing how I can be more effective and productive in meetings is something that I will have to work on in order to be a more competent employee.
+
+### Before: Find out the agenda
+
+{% hint style="info" %}
+**Introverts excel at preparation**  
+_- Dr. Kahnweiler_
+{% endhint %}
+
+Before any meeting, knowing the agenda is extremely helpful for preparing your thoughts and ideas about each point. This gives you time to think about what you want to say beforehand and allows you to later convey your opinions with confidence.
+
+### Before: Plan and practice what to say
+
+Quiet people **aren't always the best at thinking on their feet** which can be quite common in meetings if preparation is not done beforehand. Moreover, discussions entail speaking to others, which may cause distress to introverts who prefer to take their time and peruse their vocabulary to find the "right words". As such, **preparing what you want to say beforehand and practising in front a mirror can build confidence** and trick your brain into believing that you have already said that, encouraging you to relay them once again.
+
+For this reason it's **useful for introverts to have notes prepared for meetings** on the agenda for what they wish to say. Not full-length paragraphs or statements, but delivered in a casual manner using conversational language.
+
+### Before: Find some quiet time
+
+Having successful discussions come about by having all parties be **composed and collected** as they converse. To overcome the anxiety that comes with speaking beforehand for some introverts, finding a few moments of solitude to breathe and relax yourself can help tremendously with boosting your confidence and preparing you mentally for the meeting.
+
+By **focusing your attention on your breathing**, you detract your mind away from having **obsessive or negative thoughts** that may cloud your head and cause anxiety. If any such thoughts do arise, you may fare well by coming up with arguments against these thoughts
+
+### During: Get it over with quickly
+
+**If you have something to say, say it early**. The longer you wait, the less likely you are to voice up as the meeting moves forward, or you feel discouraged from overthinking what you were going to say. The problem then builds up and no one gets to hear what you had in mind. So it's better to just say it and not have to deal with regretting saying nothing at all.
+
+### During: Give yourself time to think
+
+Although meetings are on the clock, there isn't necessarily a need to rush yourself when someone asks you a question or when you're put on the spot. **If you're caught off-guard, give yourself time to think by letting your team know you need to formulate a response and pause for a moment**. You even have the option to throw the question to others and see what they think to buy you some time to think of your own stance on the matter. **If you're unsure of what to say, give yourself time to think.**
+
+### **During: Regain control and stay composed when interrupted**
+
+If someone interrupts you while you're speaking, or detracts from your train of thought, give them time to finish what they are saying and alert the team that you still had more to say. You can either keep a finger in the air to visually signify you weren't done speaking, or bring attention back to yourself by saying something like, **"I have a couple more thoughts on that matter..."**.
+
+## The importance of contribution in meetings
+
+Again, meetings are a huge part of the workplace. It's where people within the company gather and make judgements as they get a sense of how different pieces are going. The main thing to keep in mind is that by **holding back in meetings, you are at the same time holding back your career**. If you stay quiet and have no impact in your meetings, you will become invisible and irritable to those who require information from you. Meetings are your chance to voice your achievements and accomplishments to the organisation wh
 
