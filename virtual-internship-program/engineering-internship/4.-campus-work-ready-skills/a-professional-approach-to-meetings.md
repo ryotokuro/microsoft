@@ -128,5 +128,23 @@ When you have a point to make yet find [undermining thoughts](http://www.forbes.
 
 You’ve got a lot to offer—now it’s time to let everyone know it.
 
+## Boost credibility during meetings
 
+### Speak in the first 5 minutes
+
+This notion of **speaking up within the first 5 minutes consistently comes up across all these articles**. It's because during the first few minutes of the meeting, everyone is awake and present for the meeting. The attention of all the attendees is fresh and so it's the optimal time to get your ideas out there and be engaging.
+
+### Build on ideas that have already been discussed
+
+It's often very difficult to come up with an original point of discussion on the fly, so utilising what you have in your immediacy can be extremely beneficial. By building on what others have brought to the table, you can steer the discussion to a new direction and move the meeting forward whilst keeping things on track.
+
+### Ask questions to encourage creativity
+
+Instead of spending time debating on things or clashing with others by constantly voicing your own opinions, sometimes its better to explore the ideas of others by digging deeper and **asking them questions to help them open up and think expansively.** Questions that help prompt creative thinking like **"How"** or **"What"** can be useful here as a standard opening indicator.
+
+### Focus on the next steps and initiate
+
+You can ensure that the meeting is a success by focusing on creating **action from what is being addressed**. Taking initiative and **prompting what the next steps are and who should be assigned what** helps to bring a future-oriented result which you can measure.
+
+{% embed url="http://www.carolinarecruitment.com/boost-credibility-meetings/" %}
 
