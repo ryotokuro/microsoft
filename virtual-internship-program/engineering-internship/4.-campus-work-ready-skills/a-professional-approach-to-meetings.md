@@ -78,7 +78,55 @@ Although meetings are on the clock, there isn't necessarily a need to rush yours
 
 If someone interrupts you while you're speaking, or detracts from your train of thought, give them time to finish what they are saying and alert the team that you still had more to say. You can either keep a finger in the air to visually signify you weren't done speaking, or bring attention back to yourself by saying something like, **"I have a couple more thoughts on that matter..."**.
 
+{% embed url="https://www.nafe.com/7-ways-quieter-people-can-contribute-more-at-meetings" %}
+
 ## The importance of contribution in meetings
 
-Again, meetings are a huge part of the workplace. It's where people within the company gather and make judgements as they get a sense of how different pieces are going. The main thing to keep in mind is that by **holding back in meetings, you are at the same time holding back your career**. If you stay quiet and have no impact in your meetings, you will become invisible and irritable to those who require information from you. Meetings are your chance to voice your achievements and accomplishments to the organisation wh
+Again, meetings are a huge part of the workplace. It's where people within the company gather and make judgements as they get a sense of how different pieces are going. The main thing to keep in mind is that by **holding back in meetings, you are at the same time holding back your career**. If you stay quiet and have no impact in your meetings, you will become invisible and irritable to those who require information from you.
+
+Meetings are your chance to **highlight your achievements and accomplishments that is essential for your career to evolve and grow**. If you have great ideas and work hard, having an impact in meetings can bring recognition for your efforts.
+
+## Foster a habit of speaking up rather than staying silent
+
+Being confident in speaking up is a habit that promotes healthy discussion in place of ignorance from quite literally ignoring an issue. It's the reason why social media is getting behind people speaking up about what they believe in and has set off a chain reaction of many others telling their own stories. Having the courage to speak up can influence others to chip in and push the meeting towards a better place, just like how these stories are now shaping our world.
+
+## Bring your confident self
+
+### Banish pre-meeting jitters
+
+Before facing **confrontation of any sorts**, people will generally experience jitters. Whether it be a job interview, or a phone call, you might experience butterflies, shaky hands or **start having doubts** about your position. It's important to recognise this behaviour is natural, and try to **befriend this stress that you're feeling and label it as a sign that you're ready to bring your best to the action.**
+
+### **Ease into it**
+
+It's tempting to arrive right before the event starts in order to avoid any small talk or early confrontation, but that time is really the best opportunity to ease your nerves and calm you down. If you feel rushed or short on time, this can exacerbate your existing stress and make you feel even more anxious as you continue.
+
+Instead it's much better to **come in early, have a buffer of time for you to settle into the environment and be gain a sense of familiarity to calm your nerves**. As people arrive, try and make some small conversation with them to build up your social confidence and try and build a small connection with them so it's easier to voice up later. By having some **interaction before the actual meeting starts, it can be more socially fulfilling and make the experience less overwhelming once you get into it**.
+
+### Growth comes with discomfort
+
+There's a reason why we call it 'growing pains'. **Self-growth comes from pushing yourself and making yourself uncomfortable**. By doing things that you aren't used to like **speaking up early** in meetings, you can build up your ability to speak up and contribute.
+
+### Use your strengths when speaking up
+
+You **don't have to be the loudest in the room** in order to be heard. People remember and respond to how they feel strongly. So the impression that you give can be affected by using your strengths when you contribute to the discussion.
+
+For example, you can **back up a coworker by complimenting their idea and acknowledging it as good input; "Great idea! I can see that working very well."**
+
+For introverts who rely on their sense of **observation**, this gives them an edge for **asking thought-provoking questions** that other colleagues may have not thought of. Using this ability can generate more meaningful discussions and bring the spotlight to new, uncharted ideas.
+
+Another strategy is to **follow up the meeting by doing something like a summary email to your boss or initiating a proposal for something that was mentioned in the meeting**. This can help you build up a better reputation for being attentive and contributing, whilst building up your own confidence.
+
+### Take on some next steps
+
+Take initiative on things that were mentioned in the meeting. If **something was unclear and needed more research**, you could take on that research and have something to present in the next meeting. This **shows initiative and gives you something relevant to commit towards between meetings**.
+
+It's this technique of **pre-commitment** where you commit yourself to something productive that stimulates **good habits towards behaviours you desire**. Because you have committed yourself to that, you'll be **more motivated and more likely to follow through**.
+
+### Push through your thoughts
+
+When you have a point to make yet find [undermining thoughts](http://www.forbes.com/sites/melodywilding/2016/07/06/career-fomo-how-to-stop-fear-of-missing-out-from-ruining-your-happiness/) creeping in, thank your inner critic for trying to do it's job by keeping you protected. [Fear can signal you're saying something of significance. Seize the moment. Stop playing small.](https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fmelodywilding%2F2016%2F09%2F12%2F6-steps-to-make-a-great-impression-every-meeting%2F&text=Fear%20can%20signal%20you%27re%20saying%20something%20of%20significance.%20Seize%20the%20moment.%20Stop%20playing%20small.) Remember, you’re part of your organization because you’re qualified, you’re effective, and you matter.
+
+You’ve got a lot to offer—now it’s time to let everyone know it.
+
+
 
