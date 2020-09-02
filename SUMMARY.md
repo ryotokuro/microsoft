@@ -75,6 +75,8 @@
   * [Traffic Monitoring and Analytics](microsoft-student-accelerator-msa/project-2-web-application/analytics-plugin.md)
   * [FAQ](microsoft-student-accelerator-msa/project-2-web-application/faq.md)
   * [Documentation](microsoft-student-accelerator-msa/project-2-web-application/documentation.md)
+* [Workshop 3: Web App & APIs](microsoft-student-accelerator-msa/workshop-3-web-app-and-apis.md)
+* [Project 3: Building an app](microsoft-student-accelerator-msa/project-3-building-an-app.md)
 
 ## Interview Preparation
 
