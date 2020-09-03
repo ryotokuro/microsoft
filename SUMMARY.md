@@ -77,6 +77,9 @@
   * [Documentation](microsoft-student-accelerator-msa/project-2-web-application/documentation.md)
 * [Workshop 3: Web App & APIs](microsoft-student-accelerator-msa/workshop-3-web-app-and-apis.md)
 * [Project 3: Building an app](microsoft-student-accelerator-msa/project-3-building-an-app.md)
+* [MSLearn Paths 3](microsoft-student-accelerator-msa/mslearn-paths-3/README.md)
+  * [Create a Canvas App](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app.md)
+  * [Use UI and controls](microsoft-student-accelerator-msa/mslearn-paths-3/use-ui-and-controls.md)
 
 ## Interview Preparation
 
