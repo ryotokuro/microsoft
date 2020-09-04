@@ -34,7 +34,7 @@ So for each of these areas, they support different tools to satisfy those differ
 |  | Work management \(Project Online\) |  |
 
 {% hint style="info" %}
-Some of these solutions \(like Office\)are different under the **SaaS \(Software-as-a-Service\) model** which is hosted and managed centrally by a **cloud service provider \(CSP\)**. This is delivered to customers through a **monthy/annual subscription** \(like Netflix\)**.**
+Some of these solutions \(like Office\) are different under the **SaaS \(Software-as-a-Service\) model** which is hosted and managed centrally by a **cloud service provider \(CSP\)**. This is delivered to customers through a **monthy/annual subscription** \(like Netflix\)**.**
 {% endhint %}
 
 ## Productivity Benefits of Microsoft 365
