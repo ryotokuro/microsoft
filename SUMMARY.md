@@ -37,7 +37,9 @@
 
 * [Workshop 1: AI & Machine Learning](microsoft-student-accelerator-msa/workshop-1-summary.md)
 * [Project 1: Machine Learning](microsoft-student-accelerator-msa/project-1-machine-learning.md)
+* [MSLearn 1](microsoft-student-accelerator-msa/mslearn-1.md)
 * [Workshop 2: Cloud Fundamentals](microsoft-student-accelerator-msa/workshop-2-cloud-fundamentals.md)
+* [MSLearn 2](microsoft-student-accelerator-msa/mslearn-2.md)
 * [Project 2: Web Application](microsoft-student-accelerator-msa/project-2-web-application/README.md)
   * [My idea](microsoft-student-accelerator-msa/project-2-web-application/exploring-themes.md)
   * [Exploring msa.ms \(old website\)](microsoft-student-accelerator-msa/project-2-web-application/exploring-the-old-website-msa.ms/README.md)
@@ -77,7 +79,7 @@
   * [Documentation](microsoft-student-accelerator-msa/project-2-web-application/documentation.md)
 * [Workshop 3: Web App & APIs](microsoft-student-accelerator-msa/workshop-3-web-app-and-apis.md)
 * [Project 3: Building an app](microsoft-student-accelerator-msa/project-3-building-an-app.md)
-* [MSLearn Paths 3](microsoft-student-accelerator-msa/mslearn-paths-3/README.md)
+* [MSLearn 3](microsoft-student-accelerator-msa/mslearn-paths-3/README.md)
   * [Create a Canvas App](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app.md)
   * [Use UI and controls](microsoft-student-accelerator-msa/mslearn-paths-3/use-ui-and-controls.md)
 

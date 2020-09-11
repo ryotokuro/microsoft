@@ -1,4 +1,4 @@
-# MSLearn Paths 3
+# MSLearn 3
 
 ## Create a canvas app
 
