@@ -78,11 +78,14 @@
   * [FAQ](microsoft-student-accelerator-msa/project-2-web-application/faq.md)
   * [Documentation](microsoft-student-accelerator-msa/project-2-web-application/documentation.md)
 * [Workshop 3: Web App & APIs](microsoft-student-accelerator-msa/workshop-3-web-app-and-apis.md)
-* [Project 3: Building an app](microsoft-student-accelerator-msa/project-3-building-an-app.md)
+* [Project 3: Building an app](microsoft-student-accelerator-msa/project-3-building-an-app/README.md)
+  * [Target Persona](microsoft-student-accelerator-msa/project-3-building-an-app/target-persona.md)
+  * [Idea](microsoft-student-accelerator-msa/project-3-building-an-app/idea.md)
 * [MSLearn 3](microsoft-student-accelerator-msa/mslearn-paths-3/README.md)
   * [Create a Canvas App](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app/README.md)
     * [Get started with Power Apps](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app/get-started-with-power-apps/README.md)
       * [Introducing Power Apps](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app/get-started-with-power-apps/introducing-power-apps.md)
+      * [Untitled](microsoft-student-accelerator-msa/mslearn-paths-3/create-a-canvas-app/get-started-with-power-apps/untitled.md)
   * [Use UI and controls](microsoft-student-accelerator-msa/mslearn-paths-3/use-ui-and-controls.md)
 
 ## Interview Preparation
